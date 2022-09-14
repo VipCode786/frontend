@@ -1,0 +1,25 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 2,
+        "title": "json-server",
+        "author": "typicode"
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5,
+        "title": "json-server123",
+        "author": "typicode123"
+      }
+    ]
+  }
