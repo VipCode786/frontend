@@ -5,8 +5,10 @@ import { useNavigate, useParams } from "react-router-dom";
 function Add() {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
-  const [phone, setPhone] = useState("hi");
+  const [phone, setPhone] = useState("");
+/////////////////////
 
+////////////////////////
   const { id } = useParams();
 
   useEffect(() => {
