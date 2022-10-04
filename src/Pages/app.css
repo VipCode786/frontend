@@ -1,0 +1,92 @@
+.image{
+    width: 77.54px;
+    height: 60.62px;
+    left: 381.51px;
+    top: 310.11px;
+}
+
+.warehouse{
+    
+    width: 160.65px;
+    height: 29.33px;
+    left: 746.92px;
+    top: 336.38px;
+
+/* MI txt 20 */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+/* identical to box height */
+
+
+    color: #000000;
+
+}
+
+.text{
+    width: 133.65px;
+    height: 29.33px;
+    left: 746.92px;
+    top: 336.38px;
+
+/* MI txt 20 */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+/* identical to box height */
+
+
+    color: #000000;
+}
+
+.headings{
+    
+    width: 53.05px;
+    height: 26.78px;
+    left: 945.25px;
+    top: 251.35px;
+
+/* MI Txt */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+
+    /* Grey */
+
+    color: #8D8C8C;
+
+}
+
+.arrow{
+    
+    left: 85.75%;
+    right: 11.77%;
+    top: 33.35%;
+    bottom: 63.64%;
+
+/* Button Color */
+
+    
+}
+
+#Low{
+    background-color:burlywood;
+    text-align: center;
+}
+
+#normal{
+    background-color: green;
+}
+#high{
+    background-color: aqua;
+}
