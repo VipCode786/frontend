@@ -1,0 +1,100 @@
+.main-box{
+    /* border:2px solid red; */
+    margin:5%
+}
+
+.navbar{
+    /* border:2rem solid blue; */
+    background-color: #1360b8;
+    height: 52px;
+    width: 1137px;
+
+    
+}
+
+.navbar-contents{
+    list-style: none;
+    float: left;
+    color:white;
+}
+.navbar-title{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.navbar-checkbox{
+    font-family: 'Poppins';
+    float: left;
+    padding-left: 40rem;
+    padding-top: 0.5rem;
+}
+.navbar-checkbox-content{
+    padding-left: 1rem;
+}
+.items-body{
+    padding-left: 1rem;
+    font-weight: 400;
+    font-size: 1.3rem;
+    padding-top: 0.5rem;
+    width: 1137px;
+    height: 190px;
+}
+.items-label{
+    padding-left: 20rem;
+}
+
+.items-label1{
+    padding-left: 17.3rem;
+}
+.items-label2{
+    padding-left: 12rem;
+}
+.sales-label{
+    padding-left: 12.5rem;
+}
+.sales-label1{
+    padding-left: 15.14rem;
+}
+.sales-label2{
+    padding-left: 16.7rem;
+}
+
+.purchase-label1{
+    padding-left: 10rem;
+    /* color: blue; */
+}
+.purchase-label2{
+    padding-left: 15.49rem;
+    /* color: blue; */
+}
+.purchase-label3{
+    padding-left: 13.51em;
+    /* color: blue; */
+}
+
+.sales-body{
+    padding-left: 1rem;
+    font-weight: 400;
+    font-size: 1.3rem;
+    padding-top: 0.5rem;
+    width: 1137px;
+    height: 178px;
+}
+.checkbox{
+    padding-right: 10rem;
+    background-color: black;
+}
+
+.navbar-purchase-checkbox{
+    font-family: 'Poppins';
+    float: left;
+    padding-left: 37.5rem;
+    padding-top: 0.5rem;
+}
+.navbar-warehouse-checkbox{
+    font-family: 'Poppins';
+    float: left;
+    padding-left: 27.2rem;
+    padding-top: 0.5rem;
+}

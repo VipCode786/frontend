@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
+
 const Home = () => {
   return (
     <div>
@@ -23,6 +24,12 @@ const Home = () => {
       <li>
         {/* Endpoint to route to Create component */}
         <Link to="/create">Create</Link>
+      </li>
+      <li>
+        <Link to="/Items">items</Link>
+      </li>
+      <li>
+        <Link to="/Group1">Group</Link>
       </li>
     </ul>
   </div>
