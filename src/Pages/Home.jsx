@@ -28,6 +28,9 @@ const Home = () => {
       <li>
         <Link to="/Items">items</Link>
       </li>
+      <li>
+        <Link to="/Group1">Group</Link>
+      </li>
     </ul>
   </div>
   )
