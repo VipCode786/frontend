@@ -4,7 +4,7 @@ import Create from "./Pages/Create";
 import Home from "./Pages/Home";
 import ContactUs from "./Pages/ContactUs"
 import Data from "./Pages/Items"
-
+import Group1 from "./Pages/Groups/Group1"
 
 function App() {
   return (
