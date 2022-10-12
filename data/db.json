@@ -1,25 +1,51 @@
 {
-    "blogs": [
-      {
-        "id": 1,
-        "title": "json-server",
-        "author": "typicode"
-      },
-      {
-        "id": 2,
-        "title": "json-server",
-        "author": "typicode"
-      },
-      {
-        "id": 3
-      },
-      {
-        "id": 4
-      },
-      {
-        "id": 5,
-        "title": "json-server123",
-        "author": "typicode123"
-      }
-    ]
-  }
+  "blogs": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": "json-server123",
+      "author": "typicode123"
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "product_name": "Weetabix",
+      "product_category": "Cereal",
+      "unit_price": "344"
+    },
+    {
+      "id": 2,
+      "product_name": "Colgate Toothpaste",
+      "product_category": "Toiletries",
+      "unit_price": "566"
+    },
+    {
+      "id": 3,
+      "product_name": "Imperial Leather Soap",
+      "product_category": "Toiletries",
+      "unit_price": "235"
+    },
+    {
+      "id": 4,
+      "product_name": "Sunlight Detergent",
+      "product_category": "Toiletries",
+      "unit_price": "401"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+.home{
+    display: flex;
+
+    .homeContainer{
+        flex:6;
+    }
+
+    
+}
+
+.previewImg {
+    width: 10rem;
+    height: 12rem;
+    border: 1px solid #000000;
+   // border-radius: 50%;
+    object-fit: cover;
+    margin-left: 2rem;
+    margin-top: 20px;
+  }
+
+
+
+
+
+  .form{
+        display: flex;
+        flex-direction: column;
+        margin: 2rem;
+
+       input{
+        margin:0%;
+
+
+       }
+       
+        .checkbox-round {
+            width: 2em;
+            height: 2em;
+            background-color: white;
+            border-radius: 50%;
+            vertical-align: middle;
+            border: 5px solid #000000;
+            appearance: none;
+            -webkit-appearance: none;
+            outline: none;
+            cursor: pointer;
+        }
+        
+        .checkbox-round:checked {
+            background-color: #104C91;
+        }
+        
+        input[type="checkbox"]{
+            color:#000000
+       }
+       
+        
+        div input:not(:first-child) , select {
+            height: 30px;
+            width: 224px;
+            left: 0px;
+            top: 0px;
+            border-radius: 8px;
+            
+            margin-right: 1rem;
+
+
+
+        // box-sizing: border-box;
+        // background: #FFFFFF;
+        // /* Grey */
+
+        // border: 1px solid #8D8C8C;
+        // height: 4rem;
+        // width: 242px;
+       
+        // border-radius: 16px;
+        // text-align: center;
+                }
+
+                // .select{
+                //     box-sizing: border-box;
+                //     background: #FFFFFF;
+                // /* Grey */
+        
+                // border: 1px solid #8D8C8C;
+                // height: 2rem;
+                // width: auto;
+                // left: 0px;
+                // top: 0px;
+                // border-radius: 16px;
+                // text-align: center;
+                // }
+        }
+
+
+        .contentSpace{
+            display: flex;
+            justify-content: space-between;
+            
+            align-items: center;
+
+            label{
+                color: #8C8C8C;
+            }
+            p{
+                height: 0.5rem;
+                width: 5rem;
+                left: 362px;
+                top: 537px;
+                border-radius: 30px;
+                text-align: center; 
+                color:  #FFFFFF;
+                
+               
+            }
+
+            .low{
+                background-color: #FF8E8E;
+            }
+            .normal{
+                background-color: #74C987;
+            }
+            .high{
+                background-color: #3787FF;
+            }
+
+            
+            
+        }
+        
+        .btnRight{
+            border: 1px solid #8D8C8C;
+            border-radius: 10px;
+            color: #FFFFFF;
+            
+            background: #2EBFDB;
+            margin-left:auto;
+            margin-top: 2rem;
+            width: 9rem;
+            font-family: Poppins;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 36px;
+            letter-spacing: 0em;
+            text-align: center;
+            
+        }
+
+        .btnLeft{
+            border: 1px solid #8D8C8C;
+            border-radius: 10px;
+            color: #FFFFFF;
+            
+            background: #2EBFDB;
+            margin-right:auto;
+            margin-top: 2rem;
+            width: 9rem;
+            font-family: Poppins;
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 36px;
+            letter-spacing: 0em;
+            text-align: center;
+            
+        }
+
+        .formWidth{
+            width: 70%;
+            display: flex;
+            
+            
+        }
+
+        .visually-hidden{
+            border-radius: 0%;
+            border: none;
+            height: 1.5rem;
+            margin-left: 2rem;
+            background-color: #f2f2f2;
+        }
+        .info{
+            display: flex;
+            flex-direction: row;
+
+           
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+/* Writing Grey */
+
+color: #8C8C8C;
+             div{
+                margin-top: 2rem;
+                margin-left: 2rem;
+             }
+        }
+
+        
+

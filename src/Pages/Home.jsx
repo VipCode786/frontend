@@ -24,6 +24,10 @@ const Home = () => {
         {/* Endpoint to route to Create component */}
         <Link to="/create">Create</Link>
       </li>
+      <li>
+        {/* Endpoint to route to Create component */}
+        <Link to="/product">Product</Link>
+      </li>
     </ul>
   </div>
   )
